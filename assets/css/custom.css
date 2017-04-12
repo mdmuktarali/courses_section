@@ -24,4 +24,94 @@
     to {
         fill: hue-rotate(-360deg);
     }
+
 }
+.courses_heading{
+
+}
+.single_courses_list{
+    background: #ddd;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+}
+.single_courses_list h3 i{
+    font-size: 26px;
+    margin-right: 7px;
+}
+.single_courses_list h3{
+    color: #494949;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 18px;
+    text-shadow: none;
+    cursor:pointer;
+}
+.single_courses_list{
+    margin-bottom:10px;
+}
+#webdesign{
+    display:none;
+}
+.single_courses_heading h1{
+
+}
+.no-padding{
+    padding:1px;
+
+}
+.wordpress_categories{
+    position: absolute;
+    z-index: 999;
+    background: #ddd;
+    margin-left: -10px;
+    width: 99.10%;
+    text-align: left;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+}
+.wordpress_categories h2{
+    font-size: 16px;
+    padding: 0px 8px;
+    color: #333;
+    font-weight: normal;
+    text-shadow: none;
+}
+.wordpress_categories ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+.wordpress_categories ul li{
+    line-height: 28px;
+}
+.wordpress_categories ul li a{
+    margin-left: 10px;
+    font-weight: normal;
+    color: #494949;
+    text-shadow: none;
+}
+.wordpress_categories ul li a i{
+    color: #333;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+
+
+
+
+
+
+
+
+
